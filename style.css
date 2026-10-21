@@ -1,22 +1,21 @@
 body {
   background-color :#76a7ff; /* Warna biru bunga jagung */
-  font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+  font-family: Bodoni Moda, Roboto Mono sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
   color: #191970; /* Warna text utama (Biru Gelap)*/
 }
+
 .kartu-profil {
   width: 300px;
-  margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan */
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
   backgorund-color: white;
-  border-radius: 15px; /*Membuat sudut menjadi melengkung */
-box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+  border-radius: 10px; /* Membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan */
+  text-align: center; /* Menengahkan semua teks dalam kartu */
 }
+
 
 .kartu-profil img {
   width: 150px;
   border-radius:50%; /*Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
-}
-.kartu-profil {
-  /* ... (kode dari slide sebelumnya) ...*/
-text-align: center; /* Menengahkan semua teks didalam kartu*/
 }
