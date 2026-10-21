@@ -1,14 +1,14 @@
 body {
   background-color :#DBEBF2; /* Warna biru */
-  font-family:RobotoMono; /* Jenis huruf yang bersih dan mudah dibaca */
-  color: #FFFFFF; /* Warna text utama (putih)*/
+  font-family:Roboto-Mono; /* Jenis huruf yang bersih dan mudah dibaca */
+  color: #4682B4; /* Warna text utama (putih)*/
 }
 
 .kartu-profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
-  backgorund-color: white;
+  backgorund-color: #FFFFFF;
   border-radius: 10px; /* Membuat sudut menjadi melengkung */
 box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   text-align: center; /* Menengahkan semua teks dalam kartu */
@@ -19,3 +19,4 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   width: 150px;
   border-radius:50%; /*Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
+
