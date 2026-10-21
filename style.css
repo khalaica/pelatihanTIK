@@ -1,6 +1,6 @@
 body {
   background-color: #DBEBF2; /* Warna biru */
-  font-family: Roboto-Mono; /* Jenis huruf yang bersih dan mudah dibaca */
+  font-family: Times New Roman; /* Jenis huruf yang bersih dan mudah dibaca */
   color: #4682B4; /* Warna text utama (putih)*/
 }
 
@@ -8,7 +8,7 @@ body {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
-  backgorund-color: white;
+  backgorund-color: White;
   border-radius: 10px; /* Membuat sudut menjadi melengkung */
 box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   text-align: center; /* Menengahkan semua teks dalam kartu */
